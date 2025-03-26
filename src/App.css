@@ -1,2 +1,19 @@
 @import "tailwindcss";
 @plugin "daisyui";
+
+
+
+body {
+    font-family: 'Poppins', sans-serif; 
+    background-color: #1f202a;
+    color: #d6d7db;
+  }
+  
+  h1, h2 {
+    font-family: 'Rubik', sans-serif; /* ใช้ฟอนต์ Rubik */
+  }
+  
+  p {
+    font-family: 'Anuphan', sans-serif; /* ใช้ฟอนต์ Anuphan */
+  }
+  
